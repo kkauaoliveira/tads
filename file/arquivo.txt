@@ -1,0 +1,4 @@
+Isso foi escrito usando fprintf kaua
+isso foi escrito usando fputs kaua gatp
+Esse texto foi add com o a e fputs
+Esse daqui foi com o a e fprintf
